@@ -1,5 +1,6 @@
 fun-demo
 ========
 
-this is a demo    
-I love :coffee
+this is a demo  
+this is may first reposiory!  
+I love :coffee,:pizza,and :dancer:.
