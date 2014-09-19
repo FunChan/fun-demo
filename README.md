@@ -1,4 +1,5 @@
 fun-demo
 ========
 
-this is a demo
+this is a demo    
+I love :coffee
