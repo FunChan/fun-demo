@@ -1,5 +1,7 @@
 fun-demo
 ========
+git test
+2014/10/07
 
 this is a demo  
 this is may first reposiory!  
